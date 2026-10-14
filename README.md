@@ -3,6 +3,3 @@
 
 <p align="center"> 
 me and <a href="https://github.com/nataliescatorccio">the cutest</a> ever ♡
-
-<p align="center"> 
-<a href="https://github.com/kawaiirazorblades">main.</a>
