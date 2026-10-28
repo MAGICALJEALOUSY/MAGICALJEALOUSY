@@ -2,7 +2,8 @@
 <a href="https://8magicalroses10.straw.page">strawpage!</a>
 
 <p align="center">
-<img width="400" alt="nessy wessy" src="https://github.com/user-attachments/assets/2331b2ca-71c0-41a2-84e2-96b560f24f26" />
+<img width="260" alt="1032_Sem_Titulo_20261028103208" src="https://github.com/user-attachments/assets/8751332f-e792-4970-8fac-ccb3d17647d8" />
+
 
 
 <p align="center">
